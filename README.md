@@ -3,7 +3,7 @@
 - 🌱 I’m currently refining my knowledge in c and c++
 - 💞️ I’m looking to learn new things and improve my skills 
 - 📫 How to reach me: vicisdead2005@gmail.com
-- 😄 Pronouns: she/her/they
+- 😄 Pronouns: any
 
 <!---
 victoriacel/victoriacel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
